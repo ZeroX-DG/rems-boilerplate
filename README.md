@@ -11,6 +11,8 @@ This boilerplate support live reload and pack the whole app using electron build
 - Library: [React](https://reactjs.org/), [MobX](https://mobx.js.org/)
 - Lint: [ESLint](https://eslint.org/)
 - Test: [Jest](https://facebook.github.io/jest/)
+- i18n: [i18n-2](https://github.com/jeresig/i18n-node-2)
+- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome)
 
 ## Install
 Clone via git using the command bellow:
